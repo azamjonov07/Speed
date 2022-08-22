@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+  }
+  
+  .text {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .box {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .box__text {
+    display: flex;
+    align-items: center;
+    padding: 12px 30px 0px 0px;
+    font-size: 17px;
+    font-weight: 600;
+  }
+  .box__input {
+    border: solid 2px;
+    padding: 4px 0px 4px 8px;
+    font-weight: 600;
+  }
+  .box__btn {
+    padding: 4px 15px;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 5px;
+    margin-left: 30px;
+  }
+  
+  .middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+  }
+  .middle__box {
+    border-radius: 7px;
+    border: solid grey;
+    padding: 30px 45px;
+    text-align: center;
+    margin-right: 50px;
+  }
+  .middle__box__img {
+    width: 80px;
+    height: 80px;
+  }
+  .middle__box h3 {
+    font-weight: 600;
+  }
+  .middle__box p {
+    font-weight: 700;
+    min-width: 150px;
+    font-size: 20px;
+  }
+  .middle__box1 {
+    border-radius: 7px;
+    border: solid grey;
+    padding: 30px 45px;
+    text-align: center;
+    margin-right: 50px;
+  }
+  .middle__box1__img {
+    width: 80px;
+    height: 80px;
+  }
+  .middle__box1 h3 {
+    font-weight: 600;
+  }
+  .middle__box1 p {
+    font-weight: 700;
+    min-width: 150px;
+    font-size: 20px;
+  }
+  .middle__box2 {
+    border-radius: 7px;
+    border: solid grey;
+    padding: 30px 55px;
+    text-align: center;
+    margin-right: 50px;
+  }
+  .middle__box2__img {
+    width: 150px;
+    height: auto;
+  }
+  .middle__box2 h3 {
+    font-weight: 600;
+  }
+  .middle__box2 p {
+    font-weight: 700;
+    min-width: 150px;
+    font-size: 20px;
+  }
+  .middle__box3 {
+    border-radius: 7px;
+    border: solid grey;
+    padding: 30px 50px;
+    text-align: center;
+  }
+  .middle__box3__img {
+    width: 120px;
+    height: auto;
+  }
+  .middle__box3 h3 {
+    font-weight: 600;
+  }
+  .middle__box3 p {
+    font-weight: 700;
+    min-width: 150px;
+    font-size: 20px;
+  }/*# sourceMappingURL=style.css.map
